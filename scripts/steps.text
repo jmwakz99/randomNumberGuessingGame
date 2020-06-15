@@ -1,0 +1,7 @@
+GOAL => RANDOM GUESSING GAME
+
+[X] - creating the random number ranging from 1 to 100 call it random_number
+[X] - receiving input from user and parse it to integer call it guessed_number
+[X] - check if the guessedNumber equals to randomNumber  
+[X] - if true then alert him `correct! randomNumber = 10, guessedNumber = 10` 
+[X] - if false then alert him `Wrong answer!!! randomNumber = 10, guessedNumber = 4` 
